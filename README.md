@@ -22,7 +22,7 @@ this is a simple Python CLI tool for analyzing Apache and Nginx access logs. The
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/prashh97/Log-analyzer.git
+git clone https://github.com/prashh97/web-log-analyzer.git
 cd log-analyzer
 ```
 
